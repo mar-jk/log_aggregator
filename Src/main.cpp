@@ -37,4 +37,4 @@ int main() {
     removeWordFromFile(filename, "go");
     return 0;
 }
-
+{}
